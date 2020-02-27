@@ -29,7 +29,8 @@ constructor (props) {
 						<div className={styles.currentItem}>June</div>
 						<div className={styles.navItem}>Jul</div>
 					</nav>
-					<div></div>
+					<div className={styles.downMenu}>
+					</div>
 				</div>
 			);
 		}
